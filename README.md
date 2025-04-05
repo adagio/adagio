@@ -17,7 +17,7 @@ I love tech, I am an entrepreneur in digital businesses. Also curious, cyclist, 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 
-![Franco Cedillo's Github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=adagio&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true)
+![Franco Cedillo's Github stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=adagio&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adagio&layout=compact&hide=html" alt="adagio" />
